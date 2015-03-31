@@ -1,0 +1,81 @@
+file1k.random
+Algorithm,Comparisons,Assignments
+Insertion,252208,253206
+Shell (Hibbard),15432,21306
+Heap,16838,10577
+Selection,503999,8492
+Quick,10555,4287
+Merge,8719,19974
+
+file1k.reverse
+Algorithm,Comparisons,Assignments
+Insertion,499486,500484
+Shell (Hibbard),15059,20933
+Heap,15962,9809
+Selection,744120,248613
+Quick,13615,3077
+Merge,5933,19974
+
+file1k.sorted
+Algorithm,Comparisons,Assignments
+Insertion,998,1996
+Shell (Hibbard),5874,11748
+Heap,17588,11184
+Selection,498501,2994
+Quick,14079,2247
+Merge,6039,19974
+
+file10k.random
+Algorithm,Comparisons,Assignments
+Insertion,25318564,25328562
+Shell (Hibbard),266109,355087
+Heap,235338,139163
+Selection,50064324,109317
+Quick,137274,51720
+Merge,120532,267262
+
+file10k.reverse
+Algorithm,Comparisons,Assignments
+Insertion,49994482,50004480
+Shell (Hibbard),208044,297022
+Heap,226750,131977
+Selection,73778262,23823255
+Quick,202696,29268
+Merge,74898,267262
+
+file10k.sorted
+Algorithm,Comparisons,Assignments
+Insertion,9998,19996
+Shell (Hibbard),88978,177956
+Heap,244504,146423
+Selection,49985001,29994
+Quick,201856,19905
+Merge,79006,267262
+
+file100.random
+Algorithm,Comparisons,Assignments
+Insertion,2424,2522
+Shell (Hibbard),804,1174
+Heap,1034,730
+Selection,5163,606
+Quick,712,397
+Merge,539,1360
+
+file100.reverse
+Algorithm,Comparisons,Assignments
+Insertion,4949,5047
+Shell (Hibbard),759,1129
+Heap,934,646
+Selection,7301,2744
+Quick,716,306
+Merge,413,1360
+
+file100.sorted
+Algorithm,Comparisons,Assignments
+Insertion,98,196
+Shell (Hibbard),370,740
+Heap,1078,783
+Selection,4851,294
+Quick,668,199
+Merge,455,1360
+
